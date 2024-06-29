@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
       boxes.appendChild(box);
       size += 10;
     }
+  
   }
 
   button.addEventListener('click', function () {
